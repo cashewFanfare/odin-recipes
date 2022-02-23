@@ -16,3 +16,43 @@ body {
     font-weight: bold;
     font-family: "DejaVu Sans";
 }
+
+.list {
+    border-top: 3px;
+    border-bottom: 3px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: solid;
+    border-color: #70f;
+}
+
+li {
+    background-color: #888;
+    color: #fff;
+    list-style-type: square;
+}
+
+a {
+    background-color: #000;
+    color: azure;
+}
+
+.section {
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 60%;
+    border: 20px double red;
+    background-color: orange;
+}
+
+p {
+    background-color: #fff;
+    color: #555;
+}
